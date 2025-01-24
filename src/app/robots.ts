@@ -1,18 +1,28 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = 'https://steamcookieclicker.com';
+const BASE_URL = 'https://ninjagaiden2.com';
 
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
       {
         userAgent: "*",
-        allow: ["/", "/game/*", "/article/*", "/changelog", "/privacy", "/terms"],
+        allow: [
+          "/",
+          "/characters/*",
+          "/game/*", 
+          "/article/*", 
+          "/changelog",
+          "/privacy", 
+          "/terms"
+        ],
         disallow: [
           "/api/*", 
           "/admin/*",
           "/_next/*",
-          "/socket.io/*"
+          "/socket.io/*",
+          "/draft/*",
+          "/preview/*"
         ]
       }
     ],

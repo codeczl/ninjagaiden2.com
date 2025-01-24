@@ -105,10 +105,10 @@ export const Navigation = ({ categories }: navigationProp ) => {
               className="block"
               width={30}
               height={30}
-              alt="Steam Cookie Clicker"
+              alt="Ninja Gaiden 2"
               priority
             />
-            <span className="inline-block font-bold">Steam Cookie Clicker</span>
+            <span className="inline-block font-bold">Ninja Gaiden 2</span>
           </Link>
           <nav className="hidden md:flex gap-6">
             <NavigationMenu>
@@ -155,7 +155,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                             href="/"
                           >
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Steam Cookie Clicker
+                              Ninja Gaiden 2
                             </div>
                             <p className="text-xs leading-tight text-muted-foreground">
                               {t('articleDescription')}
@@ -164,16 +164,16 @@ export const Navigation = ({ categories }: navigationProp ) => {
                         </NavigationMenuLink>
                       </li>
                       <ListItem 
-                        href="/article/how-to-cheat-cookie-clicker" 
-                        title={t('cheatGuideArticle')}
+                        href="/article/ninja-gaiden-2-trailer-differences-2025" 
+                        title={t('trailerArticle')}
                       >
-                        {t('cheatGuideDescription')}
+                        {t('trailerDescription')}
                       </ListItem>
                       <ListItem 
-                        href="/article/steam-cookie-clicker-achievements" 
-                        title={t('achievementsArticle')}
+                        href="/article/ninja-gaiden-2-hidden-details-2025" 
+                        title={t('secretsArticle')}
                       >
-                        {t('achievementsDescription')}
+                        {t('secretsDescription')}
                       </ListItem>
                       <ListItem 
                         href="/article" 

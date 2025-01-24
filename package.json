@@ -1,8 +1,8 @@
 {
-  "name": "steamcookieclicker",
+  "name": "ninjagaiden2",
   "version": "1.0.0",
   "private": true,
-  "description": "Steam Cookie Clicker - The Ultimate Idle Game. Start your cookie empire and become the ultimate cookie master.",
+  "description": "Ninja Gaiden 2 - The Ultimate Action Game Guide. Master the art of ninja combat and become the legendary Dragon Ninja Ryu Hayabusa.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -32,17 +32,17 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Steam Cookie Clicker | Start Your Cookie Empire',
-    template: '%s | Steam Cookie Clicker'
+    default: 'Ninja Gaiden 2 | Ultimate Action Game Guide',
+    template: '%s | Ninja Gaiden 2'
   },
-  description: 'Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master with endless production possibilities.',
-  authors: { name: 'steamcookieclicker.com', url: 'https://steamcookieclicker.com/' },
-  keywords: 'Steam Cookie Clicker, Cookie Clicker Steam, Cookie Clicker game, idle game, cookie empire, cookie production, cookie achievements',
+  description: 'Master Ninja Gaiden 2 - The Ultimate Action Game Guide. Learn advanced combat techniques, unlock weapons, defeat bosses, and become the legendary Dragon Ninja Ryu Hayabusa.',
+  authors: { name: 'ninjagaiden2.com', url: 'https://ninjagaiden2.com/' },
+  keywords: 'Ninja Gaiden 2, Ryu Hayabusa, Action Game, Ninja Combat, Boss Fights, Weapon Guides, Ninja Techniques, Gaming Guide',
   alternates: {
-    canonical: "https://steamcookieclicker.com/",
+    canonical: "https://ninjagaiden2.com/",
     languages: {
-      "en": "https://steamcookieclicker.com/en",
-      "zh": "https://steamcookieclicker.com/zh",
+      "en": "https://ninjagaiden2.com/en",
+      "zh": "https://ninjagaiden2.com/zh",
     }
   },
   icons: {
@@ -66,13 +66,13 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Steam Cookie Clicker"
+    title: "Ninja Gaiden 2"
   },
   ...generateMetaTags({
-    title: 'Steam Cookie Clicker | Start Your Cookie Empire',
-    description: 'Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master with endless production possibilities.',
-    url: 'https://steamcookieclicker.com',
-    imageUrl: 'https://steamcookieclicker.com/og-image.jpg'
+    title: 'Ninja Gaiden 2 | Ultimate Action Game Guide',
+    description: 'Master Ninja Gaiden 2 - The Ultimate Action Game Guide. Learn advanced combat techniques, unlock weapons, defeat bosses, and become the legendary Dragon Ninja Ryu Hayabusa.',
+    url: 'https://ninjagaiden2.com',
+    imageUrl: 'https://ninjagaiden2.com/og-image.jpg'
   }),
 }
 

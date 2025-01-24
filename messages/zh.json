@@ -1,130 +1,130 @@
 {
   "home": {
-    "meta_title": "Steam Cookie Clicker | 开启你的饼干帝国",
-    "meta_description": "在 Steam 上玩 Cookie Clicker - 终极放置游戏。开始你的饼干帝国，解锁成就，通过无尽的生产可能性成为终极饼干大师。",
-    "h1": "Steam Cookie Clicker",
-    "h2": "开启你的饼干帝国之旅",
-    "intro": "Cookie Clicker 是一款令人上瘾的放置游戏，通过点击制作饼干，建立你的饼干帝国。以下是游戏的主要特点:",
+    "meta_title": "忍者龙剑传2 | 终极动作游戏指南",
+    "meta_description": "掌握忍者龙剑传2 - 终极动作游戏指南。学习高级战斗技巧, 解锁武器, 成为传奇龙忍者。",
+    "h1": "忍者龙剑传2",
+    "h2": "开启你的忍者之旅",
+    "intro": "忍者龙剑传2是一款激烈的动作游戏, 在这里你将掌握忍者战斗技巧, 面对致命挑战。以下是游戏的主要特点:",
     "cookie_clicker": {
-      "title": "Cookie Clicker",
-      "subtitle": "令人上瘾的放置游戏",
-      "description": "深入 Cookie Clicker 的世界，成为终极饼干大师。",
-      "start_button": "免费开始"
+      "title": "忍者龙剑传2",
+      "subtitle": "终极动作游戏",
+      "description": "深入忍者龙剑传2的世界, 掌握忍者战斗技巧, 成为传奇龙忍者。",
+      "start_button": "开始游戏"
     },
     "features": {
-      "title": "沉浸在 Cookie Clicker 中 - 终极放置游戏",
+      "title": "忍者龙剑传2主要特点",
       "item1": {
-        "title": "无尽的生产帝国",
-        "description": "通过点击开始你的 Cookie Clicker 之旅, 制作饼干, 然后看着你的帝国呈指数级增长。",
-        "button": "立即体验 Cookie Clicker"
+        "title": "强化画面",
+        "description": "采用虚幻引擎5打造, 提供现代高品质视觉效果, 让游戏世界更具沉浸感。",
+        "button": "了解更多"
       },
       "item2": {
-        "title": "高级生产系统",
-        "description": "掌握 Cookie Clicker 升级系统, 使用强大的建筑如奶奶、农场和工厂。",
-        "button": "立即体验 Cookie Clicker"
+        "title": "全新可选角色",
+        "description": "除了龙隼外, 玩家还可以控制百合, 绫音, 蕾切尔等角色, 每个角色都有独特的战斗风格。",
+        "button": "查看角色"
       },
       "item3": {
-        "title": "战略资源管理",
-        "description": "通过实时分析优化你的 Cookie Clicker 策略。",
-        "button": "立即体验 Cookie Clicker"
+        "title": "战斗辅助",
+        "description": "新的'忍者大师'难度在关键时刻提供自动辅助, 让所有玩家都能体验动作游戏的乐趣。",
+        "button": "探索战斗"
       }
     },
     "abilities": {
-      "title": "深入 Cookie Clicker 的世界",
+      "title": "可选角色",
       "item1": {
-        "title": "奶奶的厨房",
-        "description": "招募一支奶奶大军为你烤制饼干。"
+        "title": "龙隼",
+        "description": "系列主角, 拥有出色的忍术和剑术, 擅长近身战斗。"
       },
       "item2": {
-        "title": "魔法农场",
-        "description": "在广阔的田野中种植和收获魔法种子。"
+        "title": "百合",
+        "description": "灵活的战士, 精通薙刀, 擅长中距离战斗。"
       },
       "item3": {
-        "title": "远古矿井",
-        "description": "深入地下发现珍贵资源。"
+        "title": "绫音",
+        "description": "使用双短剑, 专精持续控制和范围攻击。"
       },
       "item4": {
-        "title": "生产工厂",
-        "description": "大规模生产商品的工业设施。"
+        "title": "蕾切尔",
+        "description": "使用巨型战锤, 擅长强力防御和反击。"
       },
       "item5": {
-        "title": "投资银行",
-        "description": "通过交易产生资源的金融设施。"
+        "title": "霞",
+        "description": "以迅捷的移动和快速连击见长。"
       },
       "item6": {
-        "title": "远古神庙",
-        "description": "受到众神祝福的神圣建筑, 创造神圣的饼干。"
+        "title": "乔·隼",
+        "description": "龙隼之父, 经验丰富的忍者, 具有强大的攻防能力。"
       }
     },
     "cta": {
-      "title": "准备好体验 Cookie Clicker 的精彩冒险了吗?",
-      "description": "投身于一个每次点击都很重要的放置游戏。在这个激动人心的冒险中建设、升级和扩展你的生产帝国!",
+      "title": "准备好迎接终极忍者挑战了吗?",
+      "description": "掌握高级战斗技巧, 解锁强大武器, 在这个惊险刺激的动作冒险中对抗致命敌人!",
       "button": "立即开始"
     },
     "faq": {
-      "title": "Cookie Clicker 常见问题",
+      "title": "忍者龙剑传2常见问题",
       "item1": {
-        "question": "如何开始玩 Cookie Clicker?",
-        "answer": "只需点击立即开始按钮即可开始你的冒险。"
+        "question": "忍者龙剑传2有什么新特性?",
+        "answer": "采用虚幻引擎5强化画面, 新增可选角色, 改进战斗机制。"
       },
       "item2": {
-        "question": "Cookie Clicker 是免费的吗?",
-        "answer": "是的! Cookie Clicker 完全免费。"
+        "question": "新手友好吗?",
+        "answer": "是的! 新的忍者大师模式为新手提供可选的战斗辅助。"
       },
       "item3": {
-        "question": "Cookie Clicker 如何保存进度?",
-        "answer": "Cookie Clicker 会自动保存你的游戏进度。"
+        "question": "有多少可选角色?",
+        "answer": "共有六名可选角色, 每个角色都有独特的战斗风格和能力。"
       },
       "item4": {
-        "question": "什么是 Cookie Clicker 中的飞升？",
-        "answer": "在 Cookie Clicker 中，飞升会重置进度以获得声望等级和天堂碎片，用于永久性升级。建议在达到365声望等级时进行第一次飞升，这样可以获得显著提升。"
+        "question": "支持哪些平台?",
+        "answer": "登陆PS5、Xbox Series X|S和PC平台, 具有强化特性。"
       },
       "item5": {
-        "question": "如何解锁 Cookie Clicker 中的小游戏？",
-        "answer": "使用糖块升级建筑物即可解锁小游戏。升级后，建筑物菜单中会出现一个按钮，点击即可访问小游戏。"
+        "question": "有多个难度等级吗?",
+        "answer": "是的, 从学徒到忍者大师共有多个难度等级, 适合不同技术水平的玩家。"
       }
     },
     "reviews": {
-      "title": "Cookie Clicker 深受全球玩家喜爱",
-      "subtitle": "加入数百万玩家, 体验最令人上瘾的放置游戏。",
+      "title": "忍者龙剑传2深受全球玩家喜爱",
+      "subtitle": "加入数百万玩家, 体验终极动作游戏。",
       "item1": {
-        "title": "超棒的游戏!",
-        "content": "Cookie Clicker 占据了我的生活! 这款游戏太上瘾了。",
-        "author": "- 饼干大师2023"
+        "title": "战斗系统出色!",
+        "content": "战斗系统令人惊叹, 每场战斗都紧张刺激, 充满成就感。",
+        "author": "- 忍者大师"
       },
       "item2": {
-        "title": "最好的放置游戏!",
-        "content": "策略和乐趣的完美平衡。我的饼干帝国不断成长!",
-        "author": "- 放置游戏玩家"
+        "title": "最佳动作游戏!",
+        "content": "挑战性和满足感的完美平衡, Boss战太震撼了!",
+        "author": "- 动作游戏玩家"
       },
       "item3": {
-        "title": "太上瘾了!",
-        "content": "昨天才开始玩, 就放不下了。升级系统太令人满意了!",
-        "author": "- 饼干爱好者"
+        "title": "画面惊艳!",
+        "content": "画面令人惊叹, 动作流畅自然!",
+        "author": "- 游戏爱好者"
       }
     },
     "latest_codes": {
-      "title": "Cookie Clicker 最新更新",
-      "code1": "新建筑: 分形引擎 - 通过维度操控生产饼干。",
-      "code2": "新成就: 饼干奇点 - 达到每秒 1 千万亿饼干。",
-      "update_note": "收藏本页面以获取最新 Cookie Clicker 功能更新!"
+      "title": "最新游戏更新",
+      "code1": "新功能: 强化引擎 - 通过次元操控提升战斗体验。",
+      "code2": "新成就: 忍者奇点 - 达到极限连击数。",
+      "update_note": "收藏本页面以获取忍者龙剑传2的最新功能更新!"
     },
     "how_to_redeem": {
-      "title": "如何使用 Cookie Clicker 功能",
-      "intro": "最大化你的饼干生产很简单, 按照以下步骤操作:",
-      "step1": "从点击大饼干开始。",
-      "step2": "购买建筑和升级。",
-      "step3": "解锁成就和天堂碎片。",
-      "step4": "优化你的生产策略!",
-      "note": "记得经常查看金饼干以获得额外效果。"
+      "title": "游戏功能使用指南",
+      "intro": "掌握游戏技巧很简单, 按照以下步骤操作:",
+      "step1": "从基础动作开始练习。",
+      "step2": "购买和升级装备。",
+      "step3": "解锁成就和特殊技能。",
+      "step4": "优化你的战斗策略!",
+      "note": "记得经常查看新的技能提示以获得额外效果。"
     },
     "tips": {
-      "title": "Cookie Clicker 成功技巧",
-      "intro": "要最大化你的饼干生产:",
-      "tip1": "时刻关注金饼干的出现。",
-      "tip2": "优先投资最高效的建筑。",
-      "tip3": "在狂热效果期间使用股市。",
-      "conclusion": "有了这些技巧, 你很快就能成为饼干大师!"
+      "title": "游戏技巧攻略",
+      "intro": "要提升战斗技巧:",
+      "tip1": "注意观察敌人的攻击模式。",
+      "tip2": "优先升级最实用的技能。",
+      "tip3": "在连击状态下使用忍术。",
+      "conclusion": "掌握这些技巧, 你很快就能成为忍者大师!"
     } 
   },
   "category": {
@@ -137,10 +137,10 @@
     "h2description": "所有 Cookie Clicker 指南按类别排序"
   },
   "article": {
-    "meta_title": "文章 - Steam Cookie Clicker",
-    "meta_description": "探索我们收集的关于 Steam Cookie Clicker 游戏指南和技巧的文章",
+    "meta_title": "文章 - 忍者龙剑传2",
+    "meta_description": "探索我们收集的关于忍者龙剑传2游戏指南和技巧的文章",
     "h1": "文章",
-    "h2": "发现有用的 Cookie Clicker 指南和资源",
+    "h2": "发现有用的忍者龙剑传2指南和资源",
     "homeBtn": "首页",
     "articleBtn": "文章",
     "backToArticles": "返回文章列表"
@@ -172,13 +172,13 @@
     "moreCategoryBtn": "更多",
     "moreCategoryDescription": "更多游戏指南",
     "articleBtn": "文章",
-    "articleDescription": "您的 Steam Cookie Clicker 终极指南 - 技巧、攻略和成就",
-    "cheatGuideArticle": "Cookie Clicker 作弊指南",
-    "cheatGuideDescription": "学习如何使用开发者控制台和作弊代码",
-    "achievementsArticle": "Steam Cookie Clicker 成就指南",
-    "achievementsDescription": "解锁所有 Steam Cookie Clicker 成就的完整指南",
+    "articleDescription": "您的忍者龙剑传2终极指南 - 战斗技巧, 角色指南和Boss攻略",
+    "trailerArticle": "PS5与Xbox版本预告片差异",
+    "trailerDescription": "分析不同平台预告片和角色差异",
+    "secretsArticle": "隐藏细节与彩蛋",
+    "secretsDescription": "发现忍者龙剑传2中的隐藏特性和秘密",
     "moreArticleBtn": "更多文章",
-    "moreArticleDescription": "浏览所有关于 Cookie Clicker 的文章",
+    "moreArticleDescription": "浏览所有关于忍者龙剑传2的文章",
     "changelogBtn": "更新日志"
   },
   "footer": {
@@ -200,14 +200,38 @@
     "tools": ""
   },
   "articleList": {
-    "h2": "Cookie Clicker 博客",
+    "h2": "忍者龙剑传2博客",
     "moreArticles": "更多文章",
     "viewAllBlogs": "查看所有博客 →"
   },
   "meta": {
-    "og_title": "Steam Cookie Clicker | 开启你的饼干帝国",
-    "og_description": "在 Steam 上玩 Cookie Clicker - 终极放置游戏。开始你的饼干帝国, 解锁成就, 成为终极饼干大师。每日更新指南!",
-    "twitter_title": "Steam Cookie Clicker | 开启饼干帝国",
-    "twitter_description": "发现 Steam Cookie Clicker 的终极游戏体验。每日更新!"
+    "og_title": "忍者龙剑传2 | 终极动作游戏指南",
+    "og_description": "掌握忍者龙剑传2 - 终极动作游戏指南。学习高级战斗技巧, 解锁武器, 成为传奇龙忍者。",
+    "twitter_title": "忍者龙剑传2 | 动作游戏指南",
+    "twitter_description": "探索终极忍者龙剑传2游戏体验。定期更新!"
+  },
+  "latestCodesArticle": "忍者龙剑传2最新更新内容 2024",
+  "latestCodesDescription": "获取忍者龙剑传2最新技巧和使用方法",
+  "secretsArticle": "忍者龙剑传2隐藏要素攻略",
+  "secretsDescription": "发现忍者龙剑传2中的隐藏特性和秘密, 提升你的战斗能力",
+  "moreArticleBtn": "更多文章",
+  "moreArticleDescription": "浏览所有关于忍者龙剑传2的文章",
+  "blog": {
+    "title": "忍者龙剑传2博客",
+    "subtitle": "最新游戏资讯与攻略",
+    "articles": {
+      "release": {
+        "title": "《忍者龙剑传2》2025年1月24日正式发售",
+        "description": "虚幻5引擎重制的《忍者龙剑传2》带来极致动作体验, 登陆PS5、Xbox Series X|S及PC平台。"
+      },
+      "trailer": {
+        "title": "《忍者龙剑传2: 黑之章》宣传片差异引热议",
+        "description": "分析《忍者龙剑传2: 黑之章》在不同平台宣传片中的差异, 探讨PS5版本展示多位女性角色, 而Xbox版本则换为男性主角物的现象, 引发玩家讨论。"
+      },
+      "secrets": {
+        "title": "《忍者龙剑传2: 隐藏细节揭秘, 重制版的彩蛋与玩家反馈》",
+        "description": "探讨《忍者龙剑传2: 黑之章》中的隐藏细节与游戏设计, 揭秘开发者为玩家准备的惊喜, 同时分析社区的反馈与期待。"
+      }
+    }
   }
 }

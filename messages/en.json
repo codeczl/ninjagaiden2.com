@@ -1,10 +1,10 @@
 {
   "home": {
-    "meta_title": "Steam Cookie Clicker | Start Your Cookie Empire",
-    "meta_description": "Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master.",
-    "h1": "Steam Cookie Clicker",
-    "h2": "Start Your Cookie Empire Journey",
-    "intro": "Cookie Clicker is an addictive idle game where you click to produce cookies and build your empire. Here are the main features:",
+    "meta_title": "Ninja Gaiden 2 Black | Ultimate Action Game Guide",
+    "meta_description": "Master Ninja Gaiden 2 Black - The Ultimate Action Game Guide. Learn advanced combat techniques, unlock weapons, and become the legendary Dragon Ninja.",
+    "h1": "Ninja Gaiden 2 Black",
+    "h2": "Start Your Ninja Journey",
+    "intro": "Ninja Gaiden 2 Black is an intense action game where you master ninja combat and face deadly challenges. Here are the main features:",
     "latest_codes": { 
       "title": "Latest Cookie Clicker Updates",
       "code1": "New Building: Fractal Engine - Produces cookies through dimensional manipulation.",
@@ -29,133 +29,133 @@
       "conclusion": "With these tips, you'll be a cookie master in no time!"
     },
     "cookie_clicker": {
-      "title": "Cookie Clicker",
-      "subtitle": "An Addictive Idle Game",
-      "description": "Dive into the world of Cookie Clicker, become the ultimate cookie master.",
-      "start_button": "Get Started For Free"
+      "title": "Ninja Gaiden 2 Black",
+      "subtitle": "The Ultimate Action Game",
+      "description": "Dive into the world of Ninja Gaiden 2 Black, master ninja combat techniques, and become the legendary Dragon Ninja.",
+      "start_button": "Start Playing"
     },
     "features": {
-      "title": "Immerse Yourself in Cookie Clicker - The Ultimate Idle Game",
+      "title": "Main Features of Ninja Gaiden 2 Black",
       "item1": {
-        "title": "Endless Production Empire",
-        "description": "Start your Cookie Clicker journey by clicking to produce treats, then watch as your empire grows exponentially.",
-        "button": "Try Cookie Clicker Now"
+        "title": "Enhanced Graphics",
+        "description": "Built with Unreal Engine 5, offering modern high-quality visuals for deeper immersion in the game world.",
+        "button": "Learn More"
       },
       "item2": {
-        "title": "Advanced Production System",
-        "description": "Master the Cookie Clicker upgrade system with powerful buildings like Grandmas, Farms, and Factories.",
-        "button": "Try Cookie Clicker Now"
+        "title": "New Playable Characters",
+        "description": "Besides Ryu Hayabusa, players can control Momiji, Ayane, Rachel, and other characters, each with unique combat styles.",
+        "button": "View Characters"
       },
       "item3": {
-        "title": "Strategic Resource Management",
-        "description": "Optimize your Cookie Clicker strategy with real-time analytics.",
-        "button": "Try Cookie Clicker Now"
+        "title": "Combat Assistance",
+        "description": "New 'Master Ninja' difficulty with automatic assistance during critical moments, making action gaming accessible to all players.",
+        "button": "Explore Combat"
       }
     },
     "abilities": {
-      "title": "Dive into the world of Cookie Clicker",
+      "title": "Playable Characters",
       "item1": {
-        "title": "Grandma's Kitchen",
-        "description": "Recruit an army of grandmas to bake treats for you."
+        "title": "Ryu Hayabusa",
+        "description": "Series protagonist with exceptional ninjutsu and swordsmanship, specializing in close combat."
       },
       "item2": {
-        "title": "Magical Farms",
-        "description": "Plant and harvest magical seeds in vast fields."
+        "title": "Momiji",
+        "description": "Agile fighter skilled with the naginata, excelling in mid-range combat."
       },
       "item3": {
-        "title": "Ancient Mines",
-        "description": "Dig deep underground to discover precious resources."
+        "title": "Ayane",
+        "description": "Specializes in sustained control and area attacks using dual short swords."
       },
       "item4": {
-        "title": "Production Factory",
-        "description": "Industrial-scale facilities that mass produce goods."
+        "title": "Rachel",
+        "description": "Powerful defense and counter-attacks using a massive war hammer."
       },
       "item5": {
-        "title": "Investment Banks",
-        "description": "Financial facilities that generate resources through trading."
+        "title": "Kasumi",
+        "description": "Swift movements and rapid combo attacks."
       },
       "item6": {
-        "title": "Ancient Temples",
-        "description": "Sacred buildings blessed by the gods to create divine treats."
+        "title": "Joe Hayabusa",
+        "description": "Ryu's father, an experienced ninja with powerful offensive and defensive capabilities."
       }
     },
     "cta": {
-      "title": "Get ready for an exciting twist on Cookie Clicker!",
-      "description": "Dive into an idle game where every click counts. Build, upgrade, and expand your way to production mastery in this thrilling adventure!",
+      "title": "Ready for the ultimate ninja challenge?",
+      "description": "Master advanced combat techniques, unlock powerful weapons, and face deadly enemies in this thrilling action adventure!",
       "button": "Get Started"
     },
     "faq": {
-      "title": "Cookie Clicker FAQ",
+      "title": "Ninja Gaiden 2 Black FAQ",
       "item1": {
-        "question": "How to start Cookie Clicker?",
-        "answer": "Simply click the \"Get Started\" button to begin your adventure."
+        "question": "What's new in Ninja Gaiden 2 Black?",
+        "answer": "Enhanced graphics with Unreal Engine 5, new playable characters, and improved combat mechanics."
       },
       "item2": {
-        "question": "Is Cookie Clicker free to play?",
-        "answer": "Yes! Cookie Clicker is completely free to play."
+        "question": "Is it beginner-friendly?",
+        "answer": "Yes! The new Master Ninja mode provides optional combat assistance for newcomers."
       },
       "item3": {
-        "question": "How does Cookie Clicker save progress?",
-        "answer": "Cookie Clicker automatically saves your game progress."
+        "question": "How many playable characters are there?",
+        "answer": "Six playable characters, each with unique combat styles and abilities."
       },
       "item4": {
-        "question": "What is \"Ascension\" in Cookie Clicker?",
-        "answer": "In Cookie Clicker, \"Ascension\" resets progress to earn Prestige Levels and Heavenly Chips for permanent upgrades. Perform your first ascension after reaching 365 Prestige Levels for a significant boost."
+        "question": "What platforms is it available on?",
+        "answer": "Available on PS5, Xbox Series X|S, and PC with enhanced features."
       },
       "item5": {
-        "question": "How to unlock minigames in Cookie Clicker?",
-        "answer": "Unlock minigames by upgrading buildings with sugar lumps. Once upgraded, a button will appear in the building's menu. Click it to access the minigame."
+        "question": "Are there multiple difficulty levels?",
+        "answer": "Yes, featuring multiple difficulty settings from Acolyte to Master Ninja to suit all skill levels."
       }
     },
     "reviews": {
-      "title": "Cookie Clicker Loved by people worldwide.",
-      "subtitle": "Join millions of players and experience the most addictive idle game.",
+      "title": "Ninja Gaiden 2 Black - Loved by gamers worldwide",
+      "subtitle": "Join millions of players in this ultimate action gaming experience",
       "item1": {
-        "title": "Amazing Game!",
-        "content": "Cookie Clicker is taking over my life! Can't stop playing this addictive game.",
-        "author": "- CookieMaster2023"
+        "title": "Incredible Combat!",
+        "content": "The combat system is absolutely amazing. Every fight feels intense and rewarding.",
+        "author": "- NinjaMaster"
       },
       "item2": {
-        "title": "Best Idle Game Ever!",
-        "content": "The perfect balance of strategy and fun. My cookie empire keeps growing!",
-        "author": "- IdleGamer"
+        "title": "Best Action Game!",
+        "content": "Perfect balance of challenge and satisfaction. The boss fights are epic!",
+        "author": "- ActionGamer"
       },
       "item3": {
-        "title": "So Addictive!",
-        "content": "Started playing yesterday, and I can't put it down. The upgrades are so satisfying!",
-        "author": "- CookieEnthusiast"
+        "title": "Stunning Visuals!",
+        "content": "The graphics are breathtaking, and the animations are so fluid!",
+        "author": "- GameEnthusiast"
       }
     }
   },
   "category": {
-    "meta_title": "Steam Cookie Clicker Game Guide",
-    "meta_description": "Find all essential Cookie Clicker guides and strategies to enhance your gaming experience",
+    "meta_title": "Ninja Gaiden 2 Black Game Guide",
+    "meta_description": "Find all essential Ninja Gaiden 2 guides and strategies to enhance your gaming experience",
     "homeBtn": "Home",
     "categoryBtn": "Game",
-    "h1": "Cookie Clicker Game Guide",
-    "h2": "Find All Cookie Clicker Guides You Need Here",
-    "h2description": "All Cookie Clicker guides are sorted by categories"
+    "h1": "Ninja Gaiden 2 Game Guide",
+    "h2": "Find All Ninja Gaiden 2 Guides You Need Here",
+    "h2description": "All Ninja Gaiden 2 guides are sorted by categories"
   },
   "article": {
-    "meta_title": "Articles - Steam Cookie Clicker",
-    "meta_description": "Explore our collection of articles about Cookie Clicker strategies and tips",
+    "meta_title": "Articles - Ninja Gaiden 2",
+    "meta_description": "Explore our collection of articles about Ninja Gaiden 2 strategies and tips",
     "h1": "Articles",
-    "h2": "Discover useful Cookie Clicker guides and resources",
+    "h2": "Discover useful Ninja Gaiden 2 guides and resources",
     "homeBtn": "Home",
     "articleBtn": "Articles",
     "backToArticles": "Back to Articles"
   },
   "changelog": {
-    "meta_title": "Changelog - Steam Cookie Clicker",
-    "meta_description": "Stay up to date with the latest updates on steamcookieclicker.com",
+    "meta_title": "Changelog - Ninja Gaiden 2",
+    "meta_description": "Stay up to date with the latest updates on ninjagaiden2.com",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest Cookie Clicker updates",
+    "h2": "Stay up to date with the latest Ninja Gaiden 2 updates",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
   "tools": {
-    "meta_description": "Find all essential Cookie Clicker guides and tools to enhance your gaming experience",
-    "h2_1": "All Cookie Clicker guides related to",
+    "meta_description": "Find all essential Ninja Gaiden 2 guides and tools to enhance your gaming experience",
+    "h2_1": "All Ninja Gaiden 2 guides related to",
     "h2_2": "",
     "homeBtn": "Home"
   },
@@ -172,22 +172,22 @@
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Game Guides",
     "articleBtn": "Articles",
-    "articleDescription": "Your Ultimate Guide for Cookie Clicker - Tips, Tricks and Achievements",
-    "cheatGuideArticle": "Cookie Clicker Cheats Guide",
-    "cheatGuideDescription": "Learn how to use developer console and cheat codes",
-    "achievementsArticle": "Steam Achievements Guide",
-    "achievementsDescription": "Complete guide to unlocking all achievements",
+    "articleDescription": "Your Ultimate Guide for Ninja Gaiden 2 - Combat Techniques, Character Guides and Boss Strategies",
+    "trailerArticle": "PS5 vs Xbox Trailer Differences",
+    "trailerDescription": "Analysis of platform-specific trailer differences and character variations",
+    "secretsArticle": "Hidden Details & Easter Eggs", 
+    "secretsDescription": "Discover hidden features and secrets in Ninja Gaiden 2 Black",
     "moreArticleBtn": "More Articles",
-    "moreArticleDescription": "Browse all articles about Cookie Clicker",
-    "changelogBtn": "Changelog"
+    "moreArticleDescription": "Browse all articles about Ninja Gaiden 2",
+    "changelogBtn": "Updates"
   },
   "footer": {
-    "description": "Your Ultimate Guide for Cookie Clicker - Tips, Tricks, Achievements and More",
+    "description": "Your Ultimate Guide for Ninja Gaiden 2 - Combat Techniques, Character Guides, and Boss Strategies",
     "quickLinks": "Quick Links",
     "home": "Home",
-    "game": "Play Game",
+    "characters": "Characters",
     "article": "Articles",
-    "changelog": "Changelog",
+    "changelog": "Updates",
     "privacy": "Privacy Policy",
     "termsOfService": "Terms of Service",
     "legal": "Legal",
@@ -197,7 +197,7 @@
   },
   "toolsList": {
     "more": "More",
-    "tools": ""
+    "tools": "Game Guides"
   },
   "articleList": {
     "h2": "Latest Blog",
@@ -205,10 +205,10 @@
     "viewAllBlogs": "View All Blogs →"
   },
   "meta": {
-    "og_title": "Steam Cookie Clicker | Start Your Cookie Empire",
-    "og_description": "Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master. Updated daily!",
-    "twitter_title": "Steam Cookie Clicker | Cookie Empire",
-    "twitter_description": "Discover the ultimate Cookie Clicker gaming experience. Updated daily!"
+    "og_title": "Ninja Gaiden 2 | Ultimate Action Game Guide",
+    "og_description": "Master Ninja Gaiden 2 - The Ultimate Action Game Guide. Learn advanced combat techniques, unlock weapons, and become the legendary Dragon Ninja.",
+    "twitter_title": "Ninja Gaiden 2 | Action Game Guide",
+    "twitter_description": "Discover the ultimate Ninja Gaiden 2 gaming experience. Updated regularly!"
   },
   "latestCodesArticle": "Latest Cookie Clicker Codes 2024",
   "latestCodesDescription": "Get the latest Cookie Clicker cheat codes and learn how to use them",

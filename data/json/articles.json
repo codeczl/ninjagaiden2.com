@@ -1,61 +1,64 @@
 [
   {
-    "id": "how-to-cheat-cookie-clicker",
-    "translations": {
-      "zh": {
-        "title": "如何在《Cookie Clicker》中作弊：详细指南",
-        "description": "本文提供了在《Cookie Clicker》中使用开发者控制台进行作弊的方法，包括常用作弊代码、步骤和注意事项。",
-        "date": "2025-01-20T00:00:00.000Z",
-        "lastModified": "2025-01-21T00:00:00Z",
-        "path": "data/md/zh/how-to-cheat-cookie-clicker.md"
-      },
-      "en": {
-        "title": "How to Cheat in Cookie Clicker: A Detailed Guide",
-        "description": "This article provides methods to cheat in Cookie Clicker using the developer console, including common cheat codes, steps, and precautions.",
-        "date": "2025-01-21T00:00:00.000Z",
-        "lastModified": "2025-01-21T00:00:00Z",
-        "path": "data/md/en/how-to-cheat-cookie-clicker.md"
-      }
+  "id": "ninja-gaiden-2-release-2025",
+  "translations": {
+    "zh": {
+      "title": "《忍者龙剑传2》2025年1月24日正式发售",
+      "description": "虚幻5引擎重制的《忍者龙剑传2：黑之章》带来极致动作体验，登陆PS5、Xbox Series X|S及PC平台。",
+      "date": "2025-01-24T00:00:00.000Z",
+      "lastModified": "2025-01-24T00:00:00Z",
+      "path": "data/md/zh/ninja-gaiden-2-release-2025.md"
+    },
+    "en": {
+      "title": "Ninja Gaiden 2 Released on January 24, 2025",
+      "description": "Experience the ultimate action gameplay with Unreal Engine 5's remastered 'Ninja Gaiden 2: Sigma'. Available on PS5, Xbox Series X|S, and PC.",
+      "date": "2025-01-24T00:00:00.000Z",
+      "lastModified": "2025-01-24T00:00:00Z",
+      "path": "data/md/en/ninja-gaiden-2-release-2025.md"
     }
-  },
+  }
+}
+  ,
   {
-    "id": "steam-cookie-clicker-achievements",
+    "id": "ninja-gaiden-2-trailer-differences-2025",
     "translations": {
       "zh": {
-        "title": "Steam《Cookie Clicker》成就指南",
-        "description": "本指南详细介绍了Steam版《Cookie Clicker》中的成就系统，包括如何解锁各类成就的策略。",
-        "date": "2025-01-19T00:00:00.000Z",
-        "lastModified": "2025-01-19T00:00:00Z",
-        "path": "data/md/zh/steam-cookie-clicker-achievements.md"
+        "title": "《忍者龙剑传2：黑之章》宣传片差异引热议，PS5与Xbox版本内容对比",
+        "description": "分析《忍者龙剑传2：黑之章》在不同平台宣传片中的差异，探讨PS5版本展示多位女性角色，而Xbox版本则替换为男性怪物的现象，引发玩家讨论。",
+        "date": "2025-01-23T00:00:00.000Z",
+        "lastModified": "2025-01-23T00:00:00Z",
+        "path": "data/md/zh/ninja-gaiden-2-trailer-differences-2025.md"
       },
       "en": {
-        "title": "Steam Cookie Clicker Achievements Guide",
-        "description": "This guide provides an in-depth look at the achievements system in Steam's Cookie Clicker, including strategies for unlocking various achievements.",
-        "date": "2025-01-21T00:00:00.000Z",
-        "lastModified": "2025-01-21T00:00:00Z",
-        "path": "data/md/en/steam-cookie-clicker-achievements.md"
-      }
-    }
-  },
-  {
-    "id": "how-to-get-infinite-cookies-in-cookie-clicker",
-    "translations": {
-      "zh": {
-        "title": "如何在《Cookie Clicker》中获取无限饼干",
-        "description": "本文详细介绍了在《Cookie Clicker》游戏中获取无限饼干的多种方法，包括使用浏览器控制台、书签代码、开发者菜单和模组等。",
-        "date": "2025-01-18T00:00:00.000Z",
-        "lastModified": "2025-01-18T00:00:00Z",
-        "path": "data/md/zh/how-to-get-infinite-cookies-in-cookie-clicker.md"
-      },
-      "en": {
-        "title": "How to Get Infinite Cookies in Cookie Clicker",
-        "description": "This article provides detailed methods to obtain infinite cookies in the game 'Cookie Clicker', including using the browser console, bookmarklets, developer menu, and mods.",
-        "date": "2025-01-18T00:00:00.000Z",
-        "lastModified": "2025-01-18T00:00:00Z",
-        "path": "data/md/en/how-to-get-infinite-cookies-in-cookie-clicker.md"
+        "title": "Ninja Gaiden 2: Sigma Trailer Differences Spark Debate, PS5 vs Xbox Versions Compared",
+        "description": "An analysis of the differences in 'Ninja Gaiden 2: Sigma' trailers across platforms, focusing on PS5's inclusion of female characters and Xbox's shift to male monsters, sparking player discussions.",
+        "date": "2025-01-23T00:00:00.000Z",
+        "lastModified": "2025-01-23T00:00:00Z",
+        "path": "data/md/en/ninja-gaiden-2-trailer-differences-2025.md"
       }
     }
   }
+  ,
+  {
+    "id": "ninja-gaiden-2-hidden-details-2025",
+    "translations": {
+      "zh": {
+        "title": "《忍者龙剑传2：隐藏细节揭秘，重制版的彩蛋与玩家反馈》",
+        "description": "探讨《忍者龙剑传2：黑之章》中的隐藏细节与彩蛋设计，揭秘开发者为玩家准备的惊喜，同时分析社区的反馈与期待。",
+        "date": "2025-01-22T00:00:00.000Z",
+        "lastModified": "2025-01-22T00:00:00Z",
+        "path": "data/md/zh/ninja-gaiden-2-hidden-details-2025.md"
+      },
+      "en": {
+        "title": "Ninja Gaiden 2: Hidden Details and Easter Eggs Revealed",
+        "description": "Explore the hidden details and Easter eggs in Ninja Gaiden 2: Sigma, uncovering the surprises developers included for players and analyzing community feedback.",
+        "date": "2025-01-22T00:00:00.000Z",
+        "lastModified": "2025-01-22T00:00:00Z",
+        "path": "data/md/en/ninja-gaiden-2-hidden-details-2025.md"
+      }
+    }
+  }
+  
   
 
 
